@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 4b819334f592901498f76dd2cc1bdcd3
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Base
+    100002: Button
+    100004: Case
+    100006: Hinge
+    100008: LedHolder
+    100010: Light
+    100012: MetalJoiner
+    100014: Nut
+    100016: //RootNode
+    100018: Ring
+    100020: Switch
+    100022: Antenna
+    100024: Detonator
+    100026: ButtonHL
+    100028: SwitchHL
+    100030: DetoHL
+    400000: Base
+    400002: Button
+    400004: Case
+    400006: Hinge
+    400008: LedHolder
+    400010: Light
+    400012: MetalJoiner
+    400014: Nut
+    400016: //RootNode
+    400018: Ring
+    400020: Switch
+    400022: Antenna
+    400024: Detonator
+    400026: ButtonHL
+    400028: SwitchHL
+    400030: DetoHL
+    2100000: No Name
+    2300000: Base
+    2300002: Button
+    2300004: Case
+    2300006: Hinge
+    2300008: LedHolder
+    2300010: Light
+    2300012: MetalJoiner
+    2300014: Nut
+    2300016: Ring
+    2300018: Switch
+    2300020: Antenna
+    2300022: Detonator
+    2300024: ButtonHL
+    2300026: SwitchHL
+    2300028: DetoHL
+    3300000: Base
+    3300002: Button
+    3300004: Case
+    3300006: Hinge
+    3300008: LedHolder
+    3300010: Light
+    3300012: MetalJoiner
+    3300014: Nut
+    3300016: Ring
+    3300018: Switch
+    3300020: Antenna
+    3300022: Detonator
+    3300024: ButtonHL
+    3300026: SwitchHL
+    3300028: DetoHL
+    4300000: Nut
+    4300002: Switch
+    4300004: Case
+    4300006: MetalJoiner
+    4300008: Hinge
+    4300010: Ring
+    4300012: LedHolder
+    4300014: Light
+    4300016: Base
+    4300018: Button
+    4300020: Detonator
+    4300022: Antenna
+    4300024: SwitchHL
+    4300026: ButtonHL
+    4300028: DetoHL
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
